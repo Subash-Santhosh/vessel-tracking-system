@@ -303,8 +303,7 @@ Error: File not found - ports.json
 
 ## 📄 License
 
-This project is proprietary and confidential.
-Unauthorized copying or distribution is prohibited.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
 

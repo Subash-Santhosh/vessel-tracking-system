@@ -303,7 +303,8 @@ Error: File not found - ports.json
 
 ## 📄 License
 
-[Add your license here]
+This project is proprietary and confidential.
+Unauthorized copying or distribution is prohibited.
 
 ## Author
 

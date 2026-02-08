@@ -2,7 +2,7 @@
 
 A production-ready real-time vessel tracking system built with Apache Kafka, PySpark Structured Streaming, Delta Lake, and Streamlit. Features interactive Mapbox visualization with historical vessel trails, status-based color coding, and port proximity detection.
 
-![Vessel Tracking Dashboard](output.png)
+![Vessel Tracking Dashboard](output.jpeg)
 
 ## 🏗️ Architecture
 
